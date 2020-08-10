@@ -1,0 +1,18 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+
+body {
+    background-color: #343a40 !important;
+    color: #FFFFFF;
+}
+
+.pokecard {
+    cursor: pointer !important;
+    transition: 0.5s;
+    -webkit-box-shadow: 7px 9px 5px 0px #2a2e33;
+    -moz-box-shadow: 7px 9px 5px 0px #2a2e33;
+    box-shadow: 7px 9px 5px 0px #2a2e33;
+}
+
+.pokecard:hover {
+    transform: translate(0, -7px);
+}
