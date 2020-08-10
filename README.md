@@ -5,4 +5,4 @@ Simple Pokédex
 **[https://codepen.io/Snowflake107/pen/zYqGmxq](https://codepen.io/Snowflake107/pen/zYqGmxq)**
 
 # Live Preview
-**[basic-pokedex.netlify.app](basic-pokedex.netlify.app)**
+**[https://basic-pokedex.netlify.app](https://basic-pokedex.netlify.app)**
