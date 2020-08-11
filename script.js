@@ -4,7 +4,7 @@ $("#button").on("click", async (e) => {
     const pokemon = $("#pokemon").val();
     if (!pokemon) return alert("Please enter a Pokémon name!");
 
-    const data = await fetchPokemon(pokemon);
+    const data = await fetchPokemon(pokemon.toLowerCase());
 
     if (!data) return alert("Not found!");
 
